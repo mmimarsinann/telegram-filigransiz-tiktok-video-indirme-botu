@@ -1,7 +1,7 @@
 <?php
 
 error_reporting(0);
-$botToken = ""; //BURAYA BOTFATHERDEN ALDIGINIZ BOTUNUZUN TOKENİNİ GİRİNİZ !
+$botToken = "5287589608:AAFJJNpIr_Xwu2je9Wx56ABmcJnPflaQUMQ"; //BURAYA BOTFATHERDEN ALDIGINIZ BOTUNUZUN TOKENİNİ GİRİNİZ !
 $website = "https://api.telegram.org/bot".$botToken;
 
 
